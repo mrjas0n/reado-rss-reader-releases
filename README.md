@@ -7,9 +7,9 @@
 <p align="center"><strong>把新闻读明白</strong><br />聚合你主动订阅的新闻源，用 AI 提炼每日重点，并保留每一条原始来源。</p>
 
 <p align="center">
-  <a href="https://github.com/mrjas0n/rss-reader-releases/releases/latest/download/reado-setup.exe"><strong>下载 Windows 客户端</strong></a>
+  <a href="https://github.com/mrjas0n/reado-rss-reader-releases/releases/latest/download/reado-setup.exe"><strong>下载 Windows 客户端</strong></a>
   ·
-  <a href="https://github.com/mrjas0n/rss-reader-releases/releases/latest">版本记录</a>
+  <a href="https://github.com/mrjas0n/reado-rss-reader-releases/releases/latest">版本记录</a>
   ·
   <a href="https://reado.geoye.com">官网</a>
 </p>
@@ -33,8 +33,8 @@
 
 Windows 安装版：
 
-- 最新版直链：[reado-setup.exe](https://github.com/mrjas0n/rss-reader-releases/releases/latest/download/reado-setup.exe)
-- 历史版本与校验信息：[Releases](https://github.com/mrjas0n/rss-reader-releases/releases)
+- 最新版直链：[reado-setup.exe](https://github.com/mrjas0n/reado-rss-reader-releases/releases/latest/download/reado-setup.exe)
+- 历史版本与校验信息：[Releases](https://github.com/mrjas0n/reado-rss-reader-releases/releases)
 
 安装后应用会自动检查并提示新版本，无需逐版升级——每次更新都会直接获取最新安装包。
 
